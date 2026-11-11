@@ -1,4 +1,4 @@
-# 绿软 Agent 技能（lvruan-skill）
+# 免费软件下载技能（lvruan-skill）
 
 [English](#english)
 
@@ -92,6 +92,8 @@ Base URL：`https://lvruan.com/api/v1`，响应格式 `{ "code": 0, "message": "
 ---
 
 ## English
+
+### Free Software Download Skill
 
 Give your AI agent (Claude Code, Codex, OpenClaw, Cursor…) the [lvruan.com](https://lvruan.com/en) software
 directory: find software by name or by need, get download links, follow the daily digest of new AI software, and
